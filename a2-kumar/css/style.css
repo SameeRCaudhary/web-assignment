@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Open+Sans:wght@300&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Aboreto', cursive;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    background-color: darkgrey;
+}
+
+.container {
+    text-align: center;
+
+    
+}
+hr{
+    color: black;
+}
+
+button {
+    margin: 3px;
+    padding: 3px;
+    border-radius: 10%;
+    background-color: black;
+    color: white;
+}
